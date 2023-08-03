@@ -62,7 +62,7 @@ const navigate = useNavigate()
     setSuggestions(results);
   };
 
-  console.log(inputValue)
+  // console.log(inputValue)
 
   const handleSearch = async(e)=>{
     e.preventDefault()
